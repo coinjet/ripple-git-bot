@@ -1,4 +1,4 @@
-Ripple Git Bot
+Divvy Git Bot
 ==============
 
 Handles basic build management for ripple development. When this script is run it will merge all pull requests that meet Ripple guidelines.
